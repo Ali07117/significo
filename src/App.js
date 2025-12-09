@@ -504,16 +504,16 @@ elem.forEach(function(el){
                 <p class="">We believe technology can dramatically improve the experience of managing health, and — when crafted with empathy, intention, and expertise — impact lives at scale.</p>
             </div>
             <div class="cards1 --translate-y-[2000px] border border-[2px] border-[black] p-[15px] min-h-[150px] w-[100%] text-[#fff] bg-[black]">
-                <h2 class="text-2xl font-semibold">Driven by Purpose</h2>
-                <p>We believe technology can dramatically improve the experience of managing health, and — when crafted with empathy, intention, and expertise — impact lives at scale.</p>
+                <h2 class="text-2xl font-semibold">Custom Products</h2>
+                <p>We see a need and we develop a solution. Our proprietary technology is available to integrate with your systems, to license, or to customize to meet your needs.</p>
             </div>
             <div class="cards1 --translate-y-[2000px] border border-[2px] border-[black] p-[15px] min-h-[150px] w-[100%] text-[#fff] bg-[black]">
-                <h2 class="text-2xl font-semibold">Driven by Purpose</h2>
-                <p>We believe technology can dramatically improve the experience of managing health, and — when crafted with empathy, intention, and expertise — impact lives at scale.</p>
+                <h2 class="text-2xl font-semibold">Partnerships</h2>
+                <p>We partner with like-minded benefits providers, insurance, and health companies to create custom solutions and technology.</p>
             </div>
             <div class="cards1 --translate-y-[2000px] border border-[2px] border-[black] p-[15px] min-h-[150px] w-[100%] text-[#fff] bg-[black]">
-                <h2 class="text-2xl font-semibold">Driven by Purpose</h2>
-                <p>We believe technology can dramatically improve the experience of managing health, and — when crafted with empathy, intention, and expertise — impact lives at scale.</p>
+                <h2 class="text-2xl font-semibold">Security & Compliance</h2>
+                <p>Not just technology experts. Health experts. We are able to navigate both stringent regulatory environments and the complexities of technology and data.</p>
             </div>       
         </div>
     </div>
