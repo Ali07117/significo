@@ -601,7 +601,7 @@ elem.forEach(function(el){
         </div>
         <div className="element hover:bg-[#2544EE] hover:text-[#fff] duration-500 flex h-[150px] border-b border-b-[2px] border-b-[black] relative">
             <div className="picture opacity-[0] w-[17rem] h-[17rem] overflow-hidden -translate-x-1/2  absolute top-[-50%] left-[50%] rounded-full -bg-yellow-500">
-                <img className="h-full w-full object-cover" src="/assets/hover.svg" alt=""/>
+                <img className="h-full w-full object-cover" src="/assets/rick.png" alt=""/>
             </div>
             <div className="e-left w-[50%] h-[100%] flex items-center gap-[10px] px-[30px]">
                 <h1 className="e-left-text font-['Pp_Neue_Machina'] text-6xl">01</h1>
@@ -613,38 +613,38 @@ elem.forEach(function(el){
         </div>
         <div className="element hover:bg-[blue] hover:text-[#fff] duration-500 flex h-[150px] border-b border-b-[2px] border-b-[black] relative">
             <div className="picture opacity-[0] w-[17rem] h-[17rem] overflow-hidden -translate-x-1/2  absolute top-[-50%] left-[50%] rounded-full -bg-yellow-500">
-                <img className="h-full w-full object-cover" src="/assets/hover.svg" alt=""/>
+                <img className="h-full w-full object-cover" src="/assets/chris.png" alt=""/>
             </div>
             <div className="e-left w-[50%] h-[100%] flex items-center gap-[10px] px-[30px]">
-                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-6xl">01</h1>
-                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-nowrap text-6xl">Dr. Rick McCartney</h1>
+                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-6xl">02</h1>
+                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-nowrap text-6xl">Chris Koha</h1>
             </div>
             <div className="e-right w-[50%] h-[100%] flex items-center justify-end px-[30px]">
-                <p className="text-2xl ceo">CEO</p>
+                <p className="text-2xl ceo">COO</p>
             </div>
         </div>
         <div className="element hover:bg-[blue] hover:text-[#fff] duration-500 flex h-[150px] border-b border-b-[2px] border-b-[black] relative">
             <div className="picture opacity-[0] w-[17rem] h-[17rem] overflow-hidden -translate-x-1/2  absolute top-[-50%] left-[50%] rounded-full -bg-yellow-500">
-                <img className="h-full w-full object-cover" src="/assets/hover.svg" alt=""/>
+                <img className="h-full w-full object-cover" src="/assets/nieto.png" alt=""/>
             </div>
             <div className="e-left w-[50%] h-[100%] flex items-center gap-[10px] px-[30px]">
-                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-6xl">01</h1>
-                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-nowrap text-6xl">Dr. Rick McCartney</h1>
+                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-6xl">03</h1>
+                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-nowrap text-6xl">Caroline Nieto</h1>
             </div>
             <div className="e-right w-[50%] h-[100%] flex items-center justify-end px-[30px]">
-                <p className="text-2xl ceo">CEO</p>
+                <p className="text-2xl ceo">CPO</p>
             </div>
         </div>
         <div className="element hover:bg-[blue] hover:text-[#fff] duration-500 flex h-[150px] border-b border-b-[2px] border-b-[black] relative">
             <div className="picture opacity-[0] z-[10] w-[17rem] h-[17rem] overflow-hidden -translate-x-1/2  absolute top-[-50%] left-[50%] rounded-full -bg-yellow-500">
-                <img className="h-full w-full object-cover" src="/assets/hover.svg" alt=""/>
+                <img className="h-full w-full object-cover" src="/assets/victor.png" alt=""/>
             </div>
             <div className="e-left w-[50%] h-[100%] flex items-center gap-[10px] px-[30px]">
-                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-6xl">01</h1>
-                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-nowrap text-6xl">Dr. Rick McCartney</h1>
+                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-6xl">04</h1>
+                <h1 className="e-left-text font-['Pp_Neue_Machina'] text-nowrap text-6xl">Victor Albertos</h1>
             </div>
             <div className="e-right w-[50%] h-[100%] flex items-center justify-end px-[30px]">
-                <p className="text-2xl ceo">CEO</p>
+                <p className="text-2xl ceo">CTO</p>
             </div>
         </div>
     </div>
